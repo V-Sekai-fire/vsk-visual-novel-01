@@ -1,0 +1,1 @@
+Cthulhoo: in larger games, I would have a global blackboard and individual blackboards per character that would be phased out as the character leaves the scene and then reloaded when character comes back
